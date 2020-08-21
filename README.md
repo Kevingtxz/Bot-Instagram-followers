@@ -1,5 +1,10 @@
-# Bot-Instagram-followers
+# Bot Instagram followers
 
-This a program that can get a email and password from a spreadsheet file and then login on Instagram, it was made with Excel and SeleniumWebdriver. 
+This a program that can get a email and password from a Excel file and then login on Instagram, after that, the program can follow
+the users from a other Excel file. 
 
 Ps: You can lost your account if you use a bot with it
+
+# What have I learned?
+
+SeleniumWebDriver, automation, web scraping, excel handle, pandas
