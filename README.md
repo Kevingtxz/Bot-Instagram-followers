@@ -7,4 +7,4 @@ Ps: You can lost your account if you use a bot with it
 
 # What have I learned?
 
-SeleniumWebDriver, automation, web scraping, Excel handle, pandas
+SeleniumWebDriver, automation, web scraping, Excel handle
