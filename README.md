@@ -1,5 +1,12 @@
 # Warning
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 YOU CAN LOSE YOUR ACCOUNT USING IT
 
 # Bot Instagram followers
