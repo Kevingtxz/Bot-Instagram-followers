@@ -1,4 +1,6 @@
-# Warning - You can lose your account if you use a bot with it
+# Warning
+
+You can lose your account if you use a bot with it
 
 # Bot Instagram followers
 
