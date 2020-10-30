@@ -5,6 +5,10 @@ the users from a other Excel file.
 
 Ps: You can lost your account if you use a bot with it
 
+# You need to use Selenium to run this program
+
+Tape 'pip install -U selenium' to install or update Selenium and run it taping 'python main.py' 
+
 # Tools that I used
 
 SeleniumWebDriver and Excel handle
