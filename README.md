@@ -5,6 +5,6 @@ the users from a other Excel file.
 
 Ps: You can lost your account if you use a bot with it
 
-# What have I Used?
+# Tools that I used
 
-SeleniumWebDriver, automation, web scraping, Excel handle
+SeleniumWebDriver and Excel handle
