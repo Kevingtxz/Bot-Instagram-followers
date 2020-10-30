@@ -14,4 +14,4 @@ Tape 'pip install -U selenium' to install or update Selenium and run it taping '
 
 # Tools that I used
 
-SeleniumWebDriver and Excel handle
+Python with SeleniumWebDriver and Excel handle
