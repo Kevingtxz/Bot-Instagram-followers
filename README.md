@@ -1,6 +1,5 @@
-
+# Warning
 ```diff
-- Warning
 - YOU CAN LOSE YOUR ACCOUNT USING IT
 ```
 
